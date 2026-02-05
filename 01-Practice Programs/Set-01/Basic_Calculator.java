@@ -1,12 +1,12 @@
 
 /*
- * ProgramID : Calculator_003
+ * ProgramID : Basic_Calculator
  * Author : Aditya Sinha
  * Description : Basic Arithmetic Calculator
  * Date : 22/1/26
  * */
 import java.util.Scanner;
-public class Calculator_003 {
+public class Basic_Calculator {
     public static void addition(int num1, int num2){
         System.out.print("Result : "+(num1+num2));
     }
