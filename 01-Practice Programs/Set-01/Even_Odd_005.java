@@ -1,4 +1,3 @@
-//
 /*
  * ProgramID : Even_Odd_005
  * Author : Aditya Sinha
