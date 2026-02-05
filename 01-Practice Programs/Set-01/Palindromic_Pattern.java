@@ -4,6 +4,7 @@
  * Description : Palindromic Number Pattern Printing
  * Date : 5/2/26
  * */
+
 import java.util.Scanner;
 public class Palindromic_Pattern {
     public static void solution(int rows){
