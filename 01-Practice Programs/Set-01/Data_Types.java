@@ -1,11 +1,11 @@
 /*
- * ProgramID : Data_Types_006
+ * ProgramID : Data_Types
  * Author : Aditya Sinha
  * Description : Exploring Datatypes
  * Date : 24/1/26
  * */
 import java.util.Scanner;
-public class Data_Types_006 {
+public class Data_Types {
     public static void main(String[] args){
         Scanner scn = new Scanner(System.in);
 
