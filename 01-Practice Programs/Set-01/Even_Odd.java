@@ -1,12 +1,12 @@
 /*
- * ProgramID : Even_Odd_005
+ * ProgramID : Even_Odd
  * Author : Aditya Sinha
  * Description : Predict the Number is Odd or Even
  * Date : 23/1/26
  * */
 
 import java.util.Scanner;
-public class Even_Odd_005 {
+public class Even_Odd {
     public static void main(String[] args){
         Scanner scn = new Scanner(System.in);
 
